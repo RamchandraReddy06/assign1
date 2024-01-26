@@ -7,7 +7,7 @@
 
 
 
-FILE *filePointer;
+FILE *F_fileHandler;
 RC ret_value;
 
 extern void initStorageManager (void);
